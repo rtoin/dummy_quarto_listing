@@ -1,0 +1,14 @@
+---
+format:
+  html: default
+listing:
+  type: default
+  contents:
+    - doc
+  fields: [date, title, author, description, categories]
+  sort: "date desc"
+  sort-ui: true
+  filter-ui: true
+---
+
+# Index page

@@ -1,0 +1,8 @@
+project:
+  title: "My project"
+  type: website
+  output-dir: _output
+
+format:
+  html: default
+  pdf: default

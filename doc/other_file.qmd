@@ -1,0 +1,10 @@
+---
+title: "A second test file"
+abstract: "A different test file to test a listing problem."
+author: Me
+categories: Technical documentation
+---
+
+# Title
+
+This is a second test file that is not compiled when `quarto render doc/file.qmd` is executed
